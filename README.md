@@ -1,7 +1,8 @@
 # Microsoft Store Product Review
+
 This project deals with product sales, customer rating for each category available in microsoft store app
 
-Microsoft Windows Store App using Exploratory Data Analysis
+Microsoft Windows Store Apps Insights using Exploratory Data Analysis (EDA) 
 
 •	Aim: To provide insights about the various apps available in Microsoft Store.
 
