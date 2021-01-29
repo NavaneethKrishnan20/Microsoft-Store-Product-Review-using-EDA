@@ -1,8 +1,6 @@
-### Microsoft Store Product Review using Exploratory Data Analysis (EDA)
+### Microsoft Store Product Review and insights using Exploratory Data Analysis (EDA)
 
 This project deals with product sales, customer rating for each category available on microsoft store app
-
-Microsoft Windows Store Apps Insights using Exploratory Data Analysis (EDA) 
 
 • Aim: To provide insights about the various apps available on Microsoft Store.
 
